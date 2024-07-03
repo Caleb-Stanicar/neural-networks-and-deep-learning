@@ -1,3 +1,8 @@
+# Disclaimer
+This is not my (Caleb Stanicar) project. I forked this project while studying
+neural networks and have since been tweaking the code in an effort to
+understand the code more deeply and add my own changes!
+
 # Code samples for "Neural Networks and Deep Learning"
 
 This repository contains code samples for my book on ["Neural Networks
